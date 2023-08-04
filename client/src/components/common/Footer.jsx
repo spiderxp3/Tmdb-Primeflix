@@ -42,7 +42,7 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2023 Primetime Developed by {' '}
+          &copy; 2023 Primeflix Developed by {' '}
           <a
             style={{
               textDecoration: 'none',
